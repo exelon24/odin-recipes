@@ -1,0 +1,1 @@
+This is a project to learn the basics about HTML by creating a recipe page. I will create page links, insert images, and create ordered/unordered lists.
